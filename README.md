@@ -297,7 +297,7 @@ Gained practical knowledge of how to implement deep learning models for safety a
  
   Issued by: **Forage**  
   Date: November 14,2024
-  [View Certificate](assets/forage.pdf)
+  [View Certificate](assets/img/forage.pdf)
   
 
 
@@ -306,7 +306,7 @@ Gained practical knowledge of how to implement deep learning models for safety a
  Issued by: **Udemy**  
  
  Date: December 16,2024
- [View Certificate](assets/1734360966786.pdf)
+ [View Certificate](assets/img/1734360966786.pdf)
 
 
 **3. Data Science Job Simulation**
@@ -314,42 +314,42 @@ Gained practical knowledge of how to implement deep learning models for safety a
  Issued by: **Forage**  
  
  Date: December 16,2024
- [View Certificate](assets/forage1.pdf)
+ [View Certificate](assets/img/forage1.pdf)
 
 **4. Microsoft Technology Associate Introduction to Programming using Python**
 
  Issued by: **Microsoft**  
  
  Date: March 19,2022
- [View Certificate]([assets/Introduction.pdf])
+ [View Certificate]([assets/img/Introduction.pdf])
 
 **5. Microsoft Certified: Azure AI Fundamentals**
 
  Issued by: **Microsoft**  
  
  Date: August 2022
- [View Certificate](assets/Azure_AI.pdf)
+ [View Certificate](assets/img/Azure_AI.pdf)
 
  **6. Google Cybersecurity**
 
  Issued by: **Google**  
  
  Date: August 3,2024
- [View Certificate](assets/cybersecurity.pdf)
+ [View Certificate](assets/img/cybersecurity.pdf)
  
  **7. Google AI Essential**
 
  Issued by: **Google**  
 
  Date: June 12,2024
- [View Certificate](assets/AIessentials.pdf)
+ [View Certificate](assets/img/AIessentials.pdf)
 
 **8. Google Data Analytics**
 
  Issued by: **Google**  
 
  Date: October 24,2024
- [View Certificate](assets/data.pdf)
+ [View Certificate](assets/img/data.pdf)
 
 # Blogs & Articles
  **Title: Evolution of Language Representation Techniques: A Journey from BoW to GPT**
