@@ -267,7 +267,7 @@ VisionMate AI is an intelligent computer vision application that detects and cla
 - Developed skills in deep learning for computer vision tasks.
 - Learned how to use OpenCV and TensorFlow for image processing.
 - Gained practical experience in deploying computer vision models.
-
+![Dashboard](assets/img/Output1.png)
 ---
 
 ### 13.[Enhancing Campus Security Through Abnormal Behavior Detection Using Deep Learning](https://github.com/899-12/Enhancing-campus-security-through-abnormal-behavior-detection-using-Deep-learning)
