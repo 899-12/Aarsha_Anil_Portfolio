@@ -24,7 +24,7 @@ I am a B.Tech graduate in AI and Data Science from Vimal Jyothi Engineering Coll
 - **Problem-Solving**: Skilled in analyzing complex problems and providing actionable solutions using data-driven approaches.  
 - **Adaptability**: Quick to learn new technologies and adapt to evolving challenges in the field of AI and Data Science.  
 - **Critical Thinking**: Expertise in identifying key issues and evaluating alternative solutions effectively.
-- 
+  
 ## Education 
 - **Degree:** B.Tech in Artificial Intelligence and Data Science.
 - **Institution:** Vimal Jyothi Engineering College.
@@ -274,7 +274,7 @@ VisionMate AI is an intelligent computer vision application that detects and cla
 **Technologies:** Python, Deep Learning, CNN, OpenCV, TensorFlow, CCTV, Anomaly Detection
 
 **Description:**
-This project focuses on enhancing campus security by detecting abnormal behavior in real-time through CCTV cameras. Using Convolutional Neural Networks (CNNs), the system is designed to analyze video footage, identify unusual patterns, and alert security personnel in case of any suspicious activity.
+This project focuses on enhancing campus security by detecting abnormal behavior in real time through CCTV cameras. Using Convolutional Neural Networks (CNNs), the system is designed to analyze video footage, identify unusual patterns, and alert security personnel in case of any suspicious activity.
 
 **Key Tasks:**
 
@@ -289,7 +289,11 @@ Gained hands-on experience with CNNs for video and image analysis.
 Learned how to process and analyze real-time video data using OpenCV and TensorFlow.
 Developed skills in anomaly detection in security systems, which can be applied to various real-world scenarios.
 Gained practical knowledge of how to implement deep learning models for safety and surveillance applications.
-
+### 14.[Real time Twitter Analytics Dashboard-Power BI](https://github.com/899-12/Twitter-Data-Analytics)
+- Worked on Twitter data from Data World, where I performed an ETL (Extract, Transform, Load) process. This involved extracting the data, cleaning it by removing null or blank values, and transforming text fields into numerical types for easier analysis. The cleaned data was then loaded for visualization. I created a comprehensive dashboard using various charts, including gauge, pie, column bar, card, and line charts, to provide clear insights from the data.
+Worked on Twitter data from Data World, where I performed an ETL (Extract, Transform, Load) process. This involved extracting the data, cleaning it by removing null or blank values, and transforming text fields into numerical types for easier analysis. The cleaned data was then loaded for visualization. I created a comprehensive dashboard using various charts, including gauge, pie, column bar, card, and line charts, to provide clear insights from the data.
+**Skills:** Extract, Transform, Load (ETL) · Visualization · Chart · Microsoft Power BI · Data Analysis
+![Project Results](assets/img/img)
 ## Certifications & Courses:
 
   **1. BCG - GenAI Job Simulation**  
