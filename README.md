@@ -293,7 +293,7 @@ Gained practical knowledge of how to implement deep learning models for safety a
 - Worked on Twitter data from Data World, where I performed an ETL (Extract, Transform, Load) process. This involved extracting the data, cleaning it by removing null or blank values, and transforming text fields into numerical types for easier analysis. The cleaned data was then loaded for visualization. I created a comprehensive dashboard using various charts, including gauge, pie, column bar, card, and line charts, to provide clear insights from the data.
 Worked on Twitter data from Data World, where I performed an ETL (Extract, Transform, Load) process. This involved extracting the data, cleaning it by removing null or blank values, and transforming text fields into numerical types for easier analysis. The cleaned data was then loaded for visualization. I created a comprehensive dashboard using various charts, including gauge, pie, column bar, card, and line charts, to provide clear insights from the data.
 **Skills:** Extract, Transform, Load (ETL) · Visualization · Chart · Microsoft Power BI · Data Analysis
-![Project Results](![Project Result](assets/images/result-picture.png))
+![Project Results](![Project Result](assets/img/img.png))
 
 ## Certifications & Courses:
 
