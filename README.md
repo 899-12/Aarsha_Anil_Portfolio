@@ -370,6 +370,7 @@ Worked on Twitter data from Data World, where I performed an ETL (Extract, Trans
 
 # Resume
 - [Download My Resume](assets/img/Aarsha_Anil_Application_pdf.pdf)
+  
 # Contact
 - **Gmail: aarshaanil2001@gmail.com**
 - **Github: https://github.com/899-12**
