@@ -371,7 +371,8 @@ Worked on Twitter data from Data World, where I performed an ETL (Extract, Trans
 # Resume
 - [Download My Resume](assets/img/Aarsha_Anil_Application_pdf.pdf)
   
-# Contact
-- **Gmail: aarshaanil2001@gmail.com**
-- **Github: https://github.com/899-12**
-- **Linkedin: https://www.linkedin.com/in/aarsha-anil-20744222a/**
+## Contact
+
+- **Gmail:** [aarshaanil2001@gmail.com](mailto:aarshaanil2001@gmail.com)
+- **GitHub:** [https://github.com/899-12](https://github.com/899-12)
+- **LinkedIn:** [https://www.linkedin.com/in/aarsha-anil-20744222a/](https://www.linkedin.com/in/aarsha-anil-20744222a/)
