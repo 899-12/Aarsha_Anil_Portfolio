@@ -1,6 +1,4 @@
-# Aarsha_Anil_Portfolio
-
-## DATA SCIENTIST
+# DATA SCIENTIST
 
 # Hi, I’m Aarsha Anil!  
 I hold a B.Tech in AI and Data Science from **Vimal Jyothi Engineering College**. With a strong foundation in data science, machine learning, artificial intelligence, and generative AI, I am passionate about solving complex problems and uncovering insights through data. My career interests lie in leveraging cutting-edge AI technologies to create impactful solutions in real-world scenarios.
