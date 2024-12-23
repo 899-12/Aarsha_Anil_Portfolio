@@ -366,7 +366,7 @@ Worked on Twitter data from Data World, where I performed an ETL (Extract, Trans
 
 **Title: Hacking the System Design: How Search Engines Understand and Deliver Results**
 - Search engines are the key to accessing vast amounts of information over the web. In order to provide users with access to the information they are looking for, search engines are designed with a special software component called an indexer that reads through all the text on web pages and creates entries into a search index (also called catalog or directory). When you search, like this one, a relevance engine returns results from your query against its searchable index. Each time you perform a search, whatever engine you use queries its index to find the most relevant items based on some criterion.
-- **[Hacking the System Design: How Search Engines Understand and Deliver Results](https://medium.com/@aarshaanil2001/hacking-the-system-design-how-search-engines-understand-and-deliver-results-09288d9d6914)**
+- **Link:[Hacking the System Design: How Search Engines Understand and Deliver Results](https://medium.com/@aarshaanil2001/hacking-the-system-design-how-search-engines-understand-and-deliver-results-09288d9d6914)**
 
 # Resume
 - [Download My Resume](assets/img/Aarsha_Anil_Application_pdf.pdf)
