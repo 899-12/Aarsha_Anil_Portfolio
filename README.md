@@ -362,11 +362,11 @@ Worked on Twitter data from Data World, where I performed an ETL (Extract, Trans
 - Language representation, also known as text vectorization or feature extraction, is the process of converting textual data into a numerical format that computers can understand. Since machines cannot interpret text in its raw form, transforming words and phrases into numerical vectors allows for mathematical processing and model-building.
 
 - Vectorization essentially turns text into arrays of numbers that capture semantic meaning and syntactic information. This enables machines to recognize word relationships, perform analysis, and execute tasks like classification, sentiment analysis, and translation.
-- **Link:https://medium.com/@aarshaanil2001/evolution-of-language-representation-techniques-a-journey-from-bow-to-gpt-95ce0209f111**
+- **Link:[Evolution of Language Representation Techniques: A Journey from BoW to GPT](https://medium.com/@aarshaanil2001/evolution-of-language-representation-techniques-a-journey-from-bow-to-gpt-95ce0209f111)**
 
 **Title: Hacking the System Design: How Search Engines Understand and Deliver Results**
 - Search engines are the key to accessing vast amounts of information over the web. In order to provide users with access to the information they are looking for, search engines are designed with a special software component called an indexer that reads through all the text on web pages and creates entries into a search index (also called catalog or directory). When you search, like this one, a relevance engine returns results from your query against its searchable index. Each time you perform a search, whatever engine you use queries its index to find the most relevant items based on some criterion.
-- **Link:https://medium.com/@aarshaanil2001/hacking-the-system-design-how-search-engines-understand-and-deliver-results-09288d9d6914**
+- **[Hacking the System Design: How Search Engines Understand and Deliver Results](https://medium.com/@aarshaanil2001/hacking-the-system-design-how-search-engines-understand-and-deliver-results-09288d9d6914)**
 
 # Resume
 - [Download My Resume](assets/img/Aarsha_Anil_Application_pdf.pdf)
