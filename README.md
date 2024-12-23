@@ -295,6 +295,7 @@ Worked on Twitter data from Data World, where I performed an ETL (Extract, Trans
 **Skills:** Extract, Transform, Load (ETL) · Visualization · Chart · Microsoft Power BI · Data Analysis
 ![Project Results](![Dashboard](assets/img/IMG.png))
 
+
 ## Certifications & Courses:
 
   **1. BCG - GenAI Job Simulation**  
