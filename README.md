@@ -335,12 +335,12 @@ Worked on Twitter data from Data World, where I performed an ETL (Extract, Trans
  Date: December 16,2024
  [View Certificate](assets/img/forage1.pdf)
 
-**4. Microsoft Technology Associate Introduction to Programming using Python**
+**4.Microsoft Technology Associate Introduction to Programming using Python**
+  ![Microsoft MTA](https://img.shields.io/badge/Microsoft%20MTA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
- Issued by: **Microsoft**  
- 
- Date: March 19,2022
- [View Certificate]([assets/img/Introduction.pdf])
+- **Issued by**: Microsoft  
+- **Date**: March 19, 2022  
+- [View Certificate](assets/img/Introduction.pdf)
 
 **5. Microsoft Certified: Azure AI Fundamentals**
 
