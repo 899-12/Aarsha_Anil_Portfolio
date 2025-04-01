@@ -1,0 +1,44 @@
+name: Generate Snake Animation
+
+on:
+  schedule: 
+    - cron: "* */12 * * *"  # This will run the workflow every 12 hours
+
+  workflow_dispatch:  # Allows manual trigger from the GitHub UI
+
+  push:
+    branches:
+      - main  # Runs when you push to the main branch
+
+jobs:
+  generate:
+    permissions:
+      contents: write  # Allows the workflow to write to the repository
+
+    runs-on: ubuntu-latest  # Use the latest version of Ubuntu
+
+    timeout-minutes: 5  # If the job runs longer than 5 minutes, it will be stopped
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # Step 2: Generate snake.svg using Platane's snake animation action
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}  # Passes the repository owner's username
+          outputs: dist/snake.svg?palette=github-dark  # Output file with the desired palette
+
+      # Step 3: Commit and push the generated snake.svg to the repository
+      - name: Push snake.svg to the main branch
+        uses: github-actions/setup-git@v2
+        with:
+          author_name: 'github-actions'
+          author_email: 'github-actions@users.noreply.github.com'
+
+      - run: |
+          git add dist/snake.svg  # Add the generated SVG to the git index
+          git commit -m "Update snake animation"  # Commit the changes with a message
+          git push origin main  # Push the changes to the main branch
