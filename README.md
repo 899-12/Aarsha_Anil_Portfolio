@@ -2,6 +2,11 @@
 
 I am a B.Tech graduate in AI and Data Science from Vimal Jyothi Engineering College with a deep passion for leveraging AI and data-driven insights to solve real-world challenges. With expertise in data science, machine learning, and generative AI, I thrive on creating innovative solutions and uncovering actionable insights. My goal is to apply cutting-edge AI technologies to develop impactful applications that drive meaningful change.
 
+## 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
 ---
