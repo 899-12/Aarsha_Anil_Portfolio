@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src=".github/workflows/generate_snake.yml" alt="Snake animation" />
+![snake gif](https://github.com/899-12/899-12/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
