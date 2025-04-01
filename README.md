@@ -44,14 +44,10 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="[snake.yml](https://github.com/899-12/Aarsha_Anil_Portfolio/blob/73fd5a4af652aeeaa75490eba0e94efa15a27e60/snake.yml)" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=899-12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=899-12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 # DATA SCIENTIST
