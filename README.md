@@ -7,6 +7,14 @@ I am a B.Tech graduate in AI and Data Science from Vimal Jyothi Engineering Coll
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F4A261?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FFC107?style=for-the-badge&logo=langchain&logoColor=black)
+![Llama](https://img.shields.io/badge/Llama-0056D2?style=for-the-badge&logo=llama&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NVIDIA AI](https://img.shields.io/badge/NVIDIA%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20AI-34A853?style=for-the-badge&logo=google&logoColor=white)
 
 
 ---
