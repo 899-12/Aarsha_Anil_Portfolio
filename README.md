@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="[snake.yml](https://github.com/899-12/Aarsha_Anil_Portfolio/blob/73fd5a4af652aeeaa75490eba0e94efa15a27e60/snake.yml)" alt="Snake animation" />
+<img src=".github/workflows/generate_snake.yml" alt="Snake animation" />
 
 ###
 
