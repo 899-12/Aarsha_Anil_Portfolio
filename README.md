@@ -442,7 +442,8 @@ Worked on Twitter data from Data World, where I performed an ETL (Extract, Trans
 
 **8. Google Data Analytics**
 
- Issued by: **Google**  
+ Issued by: **Google**
+ 
 
  Date: October 24,2024
  [View Certificate](assets/img/data.pdf)
