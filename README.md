@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/899-12/Aarsha_Anil_Portfolio/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/899-12/Aarsha_Anil_Portfolio/blob/output/snake.svg)
 
 
 
