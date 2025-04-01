@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -51,30 +51,30 @@
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
 </div>
 
-###
+
 
 <br clear="both">
 
 
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=899-12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=899-12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 ![Snake animation](https://github.com/899-12/Aarsha_Anil_Portfolio/blob/output/snake.svg)
 
 
 
 
-###
 
 
-###
+
+
 # ABOUT ME
 
 I am a B.Tech graduate in AI and Data Science from Vimal Jyothi Engineering College with a deep passion for leveraging AI and data-driven insights to solve real-world challenges. With expertise in data science, machine learning, and generative AI, I thrive on creating innovative solutions and uncovering actionable insights. My goal is to apply cutting-edge AI technologies to develop impactful applications that drive meaningful change.
