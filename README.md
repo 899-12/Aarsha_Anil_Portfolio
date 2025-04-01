@@ -343,7 +343,7 @@ Worked on Twitter data from Data World, where I performed an ETL (Extract, Trans
  [View Certificate](assets/img/Programming.pdf)
 
 **5. Microsoft Certified: Azure AI Fundamentals**
-  ![Microsoft MTA](assets/img/mta-introduction-to-programming-using-python-certified-2022.png)
+  ![Microsoft MTA](assets/img/microsoft-certified-azure-ai-fundamentals.png)
  Issued by: **Microsoft**  
  
  Date: August 2022
