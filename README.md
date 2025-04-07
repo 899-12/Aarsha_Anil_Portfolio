@@ -384,7 +384,7 @@ Worked on Twitter data from Data World, where I performed an ETL (Extract, Trans
 ![Dashboard](assets/img/IMG.png)
 
 
-### 15. [🎵Text-to-Music Generation App using Bark AI]([https://github.com/899-12/Text-to-Music-BarkAI](https://github.com/899-12/Text-to-Song-Generator))
+### 15. [🎵Text-to-Music Generation App using Bark AI](https://github.com/899-12/Text-to-Song-Generator)
 
 
 
