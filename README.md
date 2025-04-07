@@ -383,6 +383,39 @@ Worked on Twitter data from Data World, where I performed an ETL (Extract, Trans
 **Skills:** Extract, Transform, Load (ETL) · Visualization · Chart · Microsoft Power BI · Data Analysis
 ![Dashboard](assets/img/IMG.png)
 
+### 15. 🎵 Text-to-Music Generation App using Bark AI
+
+[Live Demo]([https://github.com/899-12/Text-to-Music-BarkAI](https://github.com/899-12/Text-to-Song-Generator))
+
+## 🚀 Technologies
+**Python** · **Bark AI** · **Uvicorn** · **FastAPI** · **Streamlit** · **Text-to-Audio Generation**
+
+---
+
+## 📌 Description
+An interactive web application that converts user-inputted text into music/audio using Bark AI. This project combines FastAPI for backend logic and Streamlit for a sleek user interface, offering a seamless and fun text-to-music experience.
+
+---
+
+## 🛠️ Key Contributions
+- 🧠 Integrated **Bark**, a powerful text-to-audio generative model, for converting input text into realistic audio/music.
+- 🎛️ Developed a **Streamlit-based frontend** for easy user interaction and input handling.
+- ⚙️ Used **FastAPI** and **Uvicorn** to create and run a responsive backend server.
+- ✅ Implemented async processing and exception handling for robust performance.
+
+---
+
+## 📚 Key Learnings
+- Gained hands-on experience with **Bark AI** and the fundamentals of text-to-audio generation.
+- Learned how to deploy and scale applications using **FastAPI + Uvicorn**.
+- Explored **real-time audio output handling** in Python web apps.
+- Sharpened skills in building creative AI tools combining NLP and audio synthesis.
+
+---
+
+
+
+
 
 
 ## Certifications & Courses:
